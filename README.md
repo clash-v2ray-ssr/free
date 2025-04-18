@@ -20,11 +20,11 @@
 
 ### Clash订阅链接
 
-- https://clashfreenode.com/feed/clash-20250418.yaml
+- https://clashfreenode.com/feed/clash-20250419.yaml
 
 ### V2ray订阅链接
 
-- https://clashfreenode.com/feed/v2ray-20250418.txt 
+- https://clashfreenode.com/feed/v2ray-20250419.txt 
 
 ## 更多clash节点订阅 ：
 
@@ -38,4 +38,4 @@
 
 购买套餐时输入【fuuu.cloud】享7折优惠，点击进入[福云机场官网](https://fuuu.cloud)。
 
-#### 更新于：2025-04-18 23:59:0
+#### 更新于：2025-04-19 00:09:0
