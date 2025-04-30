@@ -20,11 +20,11 @@
 
 ### Clash订阅链接
 
-- https://clashfreenode.com/feed/clash-20250430.yaml
+- https://clashfreenode.com/feed/clash-20250501.yaml
 
 ### V2ray订阅链接
 
-- https://clashfreenode.com/feed/v2ray-20250430.txt 
+- https://clashfreenode.com/feed/v2ray-20250501.txt 
 
 ## 更多clash节点订阅 ：
 
@@ -38,6 +38,8 @@
 
 购买套餐时输入【fuuu.cloud】优惠码，可享7折优惠，折后低至8元/月。
 
+🎁 五一劳动节特惠活动：5月1日至5月20日期间，购买季套餐赠送月套餐，购买年套餐赠送季套餐。
+
 点击进入[福云机场官网](https://fuuu.cloud)。
 
-#### 更新于：2025-04-30 23:59:0
+#### 更新于：2025-05-01 00:09:0
